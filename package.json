@@ -1,0 +1,15 @@
+{
+  "name": "Udemy-read",
+  "version": "0.0.1",
+  "description": "App that get the information of the course and add it to the downloaded videos from your mobile device",
+  "keywords": [
+    "Udemy",
+    "Download",
+    "courses"
+  ],
+  "author": "Robert Barron",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "mkdirp": "^0.5.1"
+  }
+}
